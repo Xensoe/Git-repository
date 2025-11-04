@@ -1,0 +1,15 @@
+
+body{ background: -o-linear-gradient(bottom, rgb(205, 115, 115) );}
+
+h1{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+font-size: xx-large; display: flex; justify-content: center; 
+color: white;}
+
+h2{font-family: Georgia, 'Times New Roman', Times, serif; 
+ color: beige;} 
+
+ p{ color: blanchedalmond; 
+    display: flex; 
+justify-content: center;
+line-height: 30px;
+letter-spacing: 5px;}
